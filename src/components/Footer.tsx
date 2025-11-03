@@ -90,7 +90,7 @@ const Footer = () => {
                   +1 (555) 123-4567
                 </a>
               </li>
-              <li>Business District<br />Corporate Center</li>
+              <li>9374 Wickham way<br />Orlando, FL 32836</li>
             </ul>
           </div>
         </div>
